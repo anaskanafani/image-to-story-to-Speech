@@ -1,4 +1,4 @@
-# **Hand-Written-Digits-DCGAN** ✍️🔢
+# **Image-to-Story-to-Speech Transformer** 🖼️➡️📝➡️🔊
 
 ### **About** ✍️  
-This project focuses on creating a **Deep Convolutional Generative Adversarial Network (DCGAN)** using **TensorFlow** and **Keras** to generate highly realistic handwritten digits. By leveraging the power of deep learning, the model is trained to learn the intricate patterns and variations present in handwritten digits, enabling it to produce new, authentic-looking samples that mimic human handwriting. The project demonstrates the capability of GANs to capture and replicate fine-grained details in image generation tasks, particularly in the domain of digit synthesis.
+This project involves the development of an advanced AI pipeline that leverages **Hugging Face models** and **large language models (LLMs)** to seamlessly transform images into rich, auditory experiences. The pipeline automatically generates descriptive captions from images, then crafts engaging and contextually relevant stories based on those captions, and finally converts the stories into lifelike speech. This project showcases the integration of vision, language, and speech synthesis technologies to create a comprehensive storytelling experience.
