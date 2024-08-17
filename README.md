@@ -1,7 +1,3 @@
-Here's the technical documentation in markdown format:
-
----
-
 # **Image-to-Story-to-Speech Transformer** 🖼️➡️📝➡️🔊
 
 ### **About** ✍️  
