@@ -1,0 +1,11 @@
+gradio
+Pillow
+transformers
+datasets
+torch
+soundfile
+numpy
+tensorflow-cpu
+huggingface_hub
+numpy
+SentencePiece
