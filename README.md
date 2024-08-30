@@ -127,7 +127,7 @@ The **Image-to-Story-to-Speech Transformer** is a powerful demonstration of the 
 
 4. **Launch the Gradio interface**:
    ```bash
-   python app.py
+   python main.py
    ```
 
 5. **Access the web interface**:
